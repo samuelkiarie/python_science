@@ -20,7 +20,7 @@ def deck_cards():
     return cards
      
 
-deck_cards
+deck_cards()
 
 
 
