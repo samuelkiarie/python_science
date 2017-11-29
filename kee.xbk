@@ -1,0 +1,5 @@
+partial modifier_keys
++myswap(swap_R_shift_backspace) "swap_R_shift_backspace" {
+    replace key <bksl>  { [ Shift_R ] };
+    replace key <RFSH> { [ backspace ] };
+};

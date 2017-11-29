@@ -1,0 +1,5 @@
+# IPython log file
+
+x =4.3type(x)#[Out]# float
+y = "re"type(y)#[Out]# str
+%logoff

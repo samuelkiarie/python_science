@@ -7,7 +7,7 @@ gasoline = 3.7 #g/cm3
 
 ice= 1.5 #g/cm3
 
-human_body = 12.3 #g/cm3
+hubody = 12.3 #g/cm3
 
 silver = 3.8 #g/cm3
 
